@@ -70,3 +70,5 @@
 | Ni hao         |   Ni hao         |
 |  Hao joi bu jien, ni hao ma         |  Hen hao xiexie ni ne           |
 |  Wo ye hen hao           |  Zaijian hao            |
+
+## Create an .md file in vscode titled Mandarin Audio Lessons in Spotify, project Learning Chinese
