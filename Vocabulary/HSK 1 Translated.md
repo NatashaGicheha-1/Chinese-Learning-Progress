@@ -1,19 +1,7 @@
 # 🏮 HSK 1 Vocabulary Collection
-### 初级汉语词汇 · Chinese Themed Study Guide
-
-> *“千里之行，始于足下”*  
-> *A journey of a thousand miles begins with a single step.*
-
----
-
-<div align="center">
-
-# 🐉 HSK 1 汉语水平考试一级
-### Essential Chinese Vocabulary
-
+## 千里之行，始于足下  
+## A journey of a thousand miles begins with a single step.
 🌸 Learn • 📖 Practice • 🏮 Master
-
-</div>
 
 ---
 
