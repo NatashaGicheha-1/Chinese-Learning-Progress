@@ -6,18 +6,18 @@
    * Chinese culture learning
    * Language resources used
    * Personal reflections on learning Chinese(Mandarin)
-   * Building software applications for Chinese-speaking users
 ---
 
 # Goals
-My long-term goal is to become proficient in Mandarin Chinese by developing skills in:
--  Reading Chinese texts
--  Writing Chinese characters
--  Speaking Mandarin confidently
--  Understanding spoken Chinese
--  Using Chinese resources in Data Science
--  Building software applications for Chinese-speaking users
-I understand that language learning is a long-term commitment. This repository serves as a public record of my progress, challenges, study methods, and growth over time.
+* My long-term goal is to become proficient in Mandarin Chinese by developing skills in:
+   -  Reading Chinese texts
+   -  Writing Chinese characters
+   -  Speaking Mandarin confidently
+   -  Understanding spoken Chinese
+   -  Using Chinese resources in Data Science
+   -  Building software applications for Chinese-speaking users.
+* I understand that language learning is a long-term commitment.
+* This repository serves as a public record of my progress, challenges, study methods, and growth over time.
 
 ---
 
@@ -29,20 +29,20 @@ I understand that language learning is a long-term commitment. This repository s
   - Japanese
   - Chinese
 
-* Chinese stood out because it seemed both interesting and challenging.
+* Chinese stood out to me because it seemed both interesting and challenging.
 * In my first Chinese class,the language felt overwhelming at first, especially since everything was unfamiliar.
 * However, I became motivated to push through difficult moments by dedicating extra time outside class to revise vocabulary, practice listening, and strengthen my understanding of the language.
 
 ---
 
 # Academic Journey
-## Chinese Class I(CHI1000A)
+## Chinese Class I (CHI1000A)
 * My first Chinese class was one of the most challenging courses I had taken.
 * My challenges were:
   - Learning an entirely new writing system.
   - Remembering Chinese characters.
   - Understanding pronunciation and tones.
-  - Developing listening skills.
+  - Developing listening skills on Chinese language.
   - Memorizing new vocabulary.
 * There were many moments when I felt overwhelmed.
 * Whenever this happened, I would take a break thenintentionally set aside more time to study instead of avoiding the challenge.
