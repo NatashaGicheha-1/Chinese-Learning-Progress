@@ -52,8 +52,14 @@
 *When something feels difficult, the solution is often to spend more focused time working on it rather than avoiding it.*
 
 ---
-## Topics Covered in Chinese Class I
-??
+## Topics Covered in Chinese I Class
+  1. General knowledge.
+  2. Family members.
+  3. Tones, Initials and Finals.
+  4. Numbers and calculation.
+  5. Strokes.
+  6. Countries and Nationalities based on celebrities.
+  7. Careers
 
 ## HSK 1 Vocabulary
 * Laoshi *Wanjiku Mbugua* (my Chinese lecturer) regularly conducted vocabulary quizzes before lessons.
@@ -77,7 +83,7 @@
 * Although I earned a **B grade**, which was slightly lower than my previous grade in Chinese Class I, I felt that my practical understanding of Mandarin improved considerably.
 * I was more comfortable engaging with the language and had greater confidence in my ability to learn independently.
 
-## Topics covered in Chinese Class II
+## Topics covered in Chinese II  Class?
 ---
 
 ## HSK 2 Vocabulary
@@ -91,20 +97,66 @@
 * Throughout my studies, I participated in several activities that helped me understand Chinese culture beyond vocabulary and grammar such as:
   * Cooking
   * Group Presentations
+  * Tongue Twister
+  * Oral Song
 
 ## Cooking Activities
 * The cooking activity provided an opportunity to learn about Chinese food culture while engaging in discussions about customs and traditions.
 * Experiencing cultural practices directly made learning more engaging and memorable.
   
-** The 2 times I cooked, what did I cook and what was the recipe, include pictures*
+** The 2 times I cooked, what did I cook and what was the recipe, include pictures?*
 ---
 
-## Group Presentations
+# Group Presentations
+* All files on Group Presentations are found in the Culture folder in the repository.
 * Topics covered in Group Presentations for Chinese Class I included:
-  - Weddings
-  - Divorce
-  - Housing
-  - Christmas
+  
+  ## Weddings in China Compared to the West
+ *❤️🏮 Tea, Tantan & Tradition❤️🏮*
+* 🌸 🏮 💍 Covers 💮 🏮 🌸:
+  - Traditional Chinese matchmaking and arranged marriages.
+  - Modern dating culture - Marriage markets.
+  - Wedding rituals and ceremonies.
+  - Marriage trends.
+  - Symbolism and aesthetics.
+  - Cross-cultural comparisons.
+
+  ## 💔Divorce in Traditional and Modern Chinese Culture💔 
+  From 孝 (xiào, filial duty) to 自由 (zìyóu, freedom) , China's divorce story is a lesson in changing values. 💔🏮
+  * Covers:
+    - Historical divorce practices.
+    - Confucian influence.
+    - Legal frameworks.
+    - Economic and social factors.
+    - Gender roles and women's rights.
+    - Family impact.
+    - Media representations.
+  - Modern divorce challenges
+ 
+  ## Housing in China Compared to the West
+  🏠🏮🐉 *Architecture is history written in space.* 🏠🏮🐉
+  * Covers 🏠🏮🐉:
+    - Traditional Chinese homes.
+    - Siheyuan courtyard houses.
+    - Tulou communal fortresses.
+    - Yaodong cave dwellings.
+    - Stilt houses.
+    - Traditional roofing systems.
+    - Renting culture.
+    - Urban housing challenges
+    - Chinese housing comparisons with Western housing
+    
+  ## 🎄Christmas in China Compared to the West🎄
+  🍎🎄From 圣诞节 (Shèngdànjié) to Peace Apples, Christmas travels the world and picks up new traditions along the way." 🍎🎄
+  * Covers:
+    - Religious origins of Christmas.
+    - Western traditions and family celebrations.
+    - Chinese adaptations of Christmas.
+    - Food eaten during Christmas.
+    - Music and entertainment.
+    - Christmas marketing.
+    - Decorations and symbolism.
+    - Cultural meaning and globalization
   
 **Topics covered in Group Presentations for Chinese Class II included:??**
 
@@ -119,7 +171,7 @@
 One of the cultural topics explored during the course was the **Dragon Boat Festival**.
 Learning about its history and significance helped deepen my understanding of Chinese traditions and cultural values.
 
-**Provide details about it**
+**Provide details about it?**
 ---
 
 #  Mandarin Podcasts
