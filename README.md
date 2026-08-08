@@ -236,5 +236,22 @@ A few things have helped me progress:
 Most importantly:
 **I no longer view learning Chinese as a course I completed instead as a long-term system of continuous learning.**
 
+# Progress Summary
+* Disclaimer progress table contains work done from creating the repository onwards.
+* Main goal is to learn Chinese at least 3 times a week.
+* Extended version of Progress will be found in a file called Progress.md containing more details on what I learnt each day.
+
+|Week|Day|Progress|
+|-----|---|--------|
+|1|1|Compiled all the work done in my 2 courses for Chinese(6 units)|
+||2|Wrote 1st Readme Version, what I remembered doing off head|
+||3|Did 1 day of duolingo after 2 months of inactivity|
+||4|Did practice on HSK 1 Vocabulary(English and Pinyin) on letters x, y and z|
+||5|Listened to a short spotify podcast(7min) on Basic Greetings in Chinese|
+||6|Wrote a simple sentence in English, Pinyin and *Hanzi* by hand, posted it in Substack|
+||7|Downloaded Chinese Keyboard to be able to type in Chinese, Updated ReadMe file using Microsoft 365 Copilot, Turned my group presentation powerpoint slides for Chinese ||Class I into markdown files for easy viewing on github|
+||8|Found a 2hr Spotify Podcast on HSK 1 Vocabulary included making sentences and clear pronunction of each word| 
+||9|Started writing a progress summary of what I've done|
+
 
 
