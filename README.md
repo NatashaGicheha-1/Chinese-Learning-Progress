@@ -258,4 +258,39 @@ Most importantly:
 |||Duolingo-Progressive Pronouns|
 
 
+# Differences between Kenya and China
+## First Aid Training
+| Aspect | Kenya | China |
+|----------|--------|--------|
+| Training Coverage | First aid training reaches a smaller portion of the population and is concentrated in urban areas. | First aid training is more widely available and reaches a larger percentage of the population. |
+| Government Support | Mainly driven by NGOs, Kenya Red Cross, and private providers. | Strong government-led promotion and coordination of first aid education. |
+| School Integration | Not consistently included in school curricula nationwide. | More commonly incorporated into schools and universities. |
+| Automated External Defibrillators (AED) Availability | Limited number of AEDs in public places. | AEDs are increasingly available in public facilities such as airports, schools, and transport hubs. |
+| Emergency Medical Infrastructure | Developing emergency response systems with uneven rural coverage. | More extensive emergency medical and ambulance networks, especially in cities. |
+| Technology in Training | Relatively limited use of digital platforms and simulation technology. | Greater use of e-learning, mobile apps, and advanced training simulators. |
+| Public Awareness | Awareness is growing but many citizens lack formal first aid training. | Higher public awareness due to large-scale national campaigns and training programs. |
 
+- NB: Automated External Defibrillator (AED) is a  portable device that analyzes a person's heart rhythm and delivers an electric shock if needed to restore a normal heartbeat during sudden cardiac arrest.
+
+--------------------
+# Main Sustainable Ways Kenya Can Improve First Aid Training
+1. **Integrate First Aid into School Curricula**
+   - Teach basic first aid and CPR in primary and secondary schools to build lifelong emergency response skills.
+
+2. **Expand Community-Based Training**
+   - Partner with county governments, NGOs, and community organizations to provide regular training at the grassroots level.
+
+3. **Increase Access to AEDs**
+   - Install Automated External Defibrillators (AEDs) in public places such as schools, transport hubs, malls, and stadiums.
+
+4. **Use Digital Learning Platforms**
+   - Provide online courses, mobile apps, and refresher modules to reach more people at a lower cost.
+
+5. **Strengthen Workplace First Aid Programs**
+   - Require regular first aid training and emergency preparedness in both public and private sector workplaces.
+
+6. **Implement Train-the-Trainer Programs**
+   - Develop more certified local instructors who can continuously train others within their communities.
+
+7. **Conduct National Public Awareness Campaigns**
+   - Promote CPR, choking response, bleeding control, and emergency preparedness through media, schools, and community events.
