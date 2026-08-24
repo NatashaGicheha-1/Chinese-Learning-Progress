@@ -1,41 +1,47 @@
-# Overview
-* This is a documentation of my journey from beginner Mandarin student to being able to read, write, speak and eventually use Chinese in Data Science.
+<h1 align="center">🏯Mandarin Chinese Learning Journey🏯</h1>
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/8aec2a21-cf28-4d4e-a7e1-7ba1a4487bbd" />
+
+# Overview🐉
+* This is a documentation of my journey from beginner Mandarin student to being able to read, write, speak and use Chinese in Data Science.
 * The repository contains:
-   * My academic experiences
-   * Vocabulary studies
-   * Chinese culture learning
-   * Language resources used
+   * My academic experiences.
+   * Vocabulary studies.
+   * Chinese culture learning.
+   * Language resources used.
    * Personal reflections on learning Chinese(Mandarin)
 ---
 
-# Goals
+# Goals🧮
 * My long-term goal is to become proficient in Mandarin Chinese by developing skills in:
-   -  Reading Chinese texts
-   -  Writing Chinese characters
-   -  Speaking Mandarin confidently
-   -  Understanding spoken Chinese
-   -  Using Chinese resources in Data Science
+   -  Reading Chinese texts.
+   -  Writing Chinese characters.
+   -  Speaking Mandarin confidently.
+   -  Understanding spoken Chinese.
+   -  Using Chinese resources in Data Science.
    -  Building software applications for Chinese-speaking users.
+     
 * I understand that language learning is a long-term commitment.
 * This repository serves as a public record of my progress, challenges, study methods, and growth over time.
 
 ---
 
 # Why I Chose to Learn Chinese(Mandarin) Language
-* When selecting a foreign language course at university, I had several options:
-  - Arabic
-  - French
-  - Spanish
-  - Japanese
-  - Chinese
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f1437e84-7103-4327-87aa-9d6b25541c38" />
 
-* Chinese stood out to me because it seemed both interesting and challenging.
+* When selecting a foreign language course in university, I had several options:
+  - Arabic.
+  - French.
+  - Spanish.
+  - Japanese.
+  - Chinese.
+
+* Chinese stood out to me most because it seemed both interesting and challenging.
 * In my first Chinese class,the language felt overwhelming at first, especially since everything was unfamiliar.
 * However, I became motivated to push through difficult moments by dedicating extra time outside class to revise vocabulary, practice listening, and strengthen my understanding of the language.
 
 ---
 
-# Academic Journey
+# Academic Journey🀄
 ## Chinese Class I (CHI1000A)
 * My first Chinese class was one of the most challenging courses I had taken.
 * My challenges were:
@@ -48,20 +54,27 @@
 * Whenever this happened, I would take a break thenintentionally set aside more time to study instead of avoiding the challenge.
 * Despite the difficulties, I remained committed throughout the semester and earned a **B+ grade**.
 
-### Key Lesson Learned
-*When something feels difficult, the solution is often to spend more focused time working on it rather than avoiding it.*
-
+### Key Lesson Learnt
+- *🌟When something feels difficult, the solution is often to spend more focused time working on it rather than avoiding it.🌟*
+   - *🌟Dāng yí jiàn shì qíng ràng nǐ juéde hěn kùnnán shí, zuì hǎo de bànfǎ bú shì táobì, ér shì tóurù gèng duō zhuānzhù de shíjiān qù nǔlì.🌟*
+   - *🌟当一件事情让你觉得很困难时，最好的办法不是逃避，而是投入更多专注的时间去努力。🌟*
 ---
-## Topics Covered in Chinese I Class
+
+## Content Covered in Chinese I Class
   1. General knowledge.
-  2. Family members.
-  3. Tones, Initials and Finals.
-  4. Numbers and calculation.
-  5. Strokes.
-  6. Countries and Nationalities based on celebrities.
-  7. Careers
+  2. Tones, Initials and Finals.
+  3. Numbers and calculation.
+  4. Strokes.
+  5. Countries, Nationalities and Careers based on celebrities.
+  6. Culture: Weddings, Divorce, Housing and Christmas.
+  7. Tongue Twister (Sì shì sì, shí shì shí)
+https://www.youtube.com/watch?v=3B2BdVhzF8I&pp=ygUhc2kgc2hpIHNoaSBjaGluZXNlIHRvbmd1ZSB0d2lzdGVy  
+  8. Oral Song (MO LI HUA)
+https://www.youtube.com/watch?v=n9ArWpDSBJw&pp=ygUeaGFvIHlpIGR1byBtZWkgbGkgZGUgbW8gbGkgaHVh
 
 ## HSK 1 Vocabulary
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/eeccca9a-1575-45df-a595-823584105daf" />
+
 * Laoshi *Wanjiku Mbugua* (my Chinese lecturer) regularly conducted vocabulary quizzes before lessons.
 * At the beginning, my performance was not very strong because I relied heavily on rereading vocabulary lists.
 * Total number of words=150
@@ -83,10 +96,19 @@
 * Although I earned a **B grade**, which was slightly lower than my previous grade in Chinese Class I, I felt that my practical understanding of Mandarin improved considerably.
 * I was more comfortable engaging with the language and had greater confidence in my ability to learn independently.
 
-## Topics covered in Chinese II  Class?
----
+## Content covered in Chinese II  Class?
+1. Family members and how to introduse them.
+2. Food and drinks
+3. Giving directions.
+4. Self Introduction.
+5. Two tongue twisters.
+6. Culture: Birthdays, Confucius, Mencius, Xunzi and Daoism.
+7. Knot tying.
+8. Telling weather and time
 
 ## HSK 2 Vocabulary
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f7c91733-a321-478e-b532-4b44a4dc1a83" />
+
 * During the second class, I continued building my Mandarin vocabulary and strengthening the foundation established during HSK 1 studies.
 * The focus shifted from simply remembering words to understanding how they are used in sentences and everyday communication.
 * 150 more words were added to HSK 2 Vocabulary making it a total of 350 words
@@ -95,10 +117,11 @@
 # Cultural Activities
 * Language and culture are closely connected, I really enjoyed this part of my Chinese course.
 * Throughout my studies, I participated in several activities that helped me understand Chinese culture beyond vocabulary and grammar such as:
-  * Cooking
-  * Group Presentations
-  * Tongue Twister
-  * Oral Song
+  * Cooking.
+  * Group Presentations.
+  * Tongue Twisters.
+  * Oral Songs.
+  * Knot tying.
 
 ## Cooking Activities
 * The cooking activity provided an opportunity to learn about Chinese food culture while engaging in discussions about customs and traditions.
@@ -237,6 +260,8 @@ Most importantly:
 **I no longer view learning Chinese as a course I completed instead as a long-term system of continuous learning.**
 
 # Progress Summary
+ <img width="303" height="293" alt="image" src="https://github.com/user-attachments/assets/a486d37c-de91-4c90-98ef-667f1de8f69b" />
+ 
 * Main goal is to learn Chinese at least 3 times a week.
 * Extended version of Progress will be found in a file called Progress.md containing more details on what I learnt each day.
 * **Disclaimer** progress table contains work done from creating the repository onwards.
