@@ -1,6 +1,8 @@
 <h1 align="center">🏯Mandarin Chinese Learning Journey🏯</h1>
 <img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/8aec2a21-cf28-4d4e-a7e1-7ba1a4487bbd" />
 
+---------
+
 # Overview🐉
 * This is a documentation of my journey from beginner Mandarin student to being able to read, write, speak and use Chinese in Data Science.
 * The repository contains:
@@ -55,12 +57,12 @@
 * Despite the difficulties, I remained committed throughout the semester and earned a **B+ grade**.
 
 ### Key Lesson Learnt
-- *🌟When something feels difficult, the solution is often to spend more focused time working on it rather than avoiding it.🌟*
-   - *🌟Dāng yí jiàn shì qíng ràng nǐ juéde hěn kùnnán shí, zuì hǎo de bànfǎ bú shì táobì, ér shì tóurù gèng duō zhuānzhù de shíjiān qù nǔlì.🌟*
-   - *🌟当一件事情让你觉得很困难时，最好的办法不是逃避，而是投入更多专注的时间去努力。🌟*
+- *When something feels difficult, the solution is often to spend more focused time working on it rather than avoiding it.🌟*
+   - *Dāng yí jiàn shì qíng ràng nǐ juéde hěn kùnnán shí, zuì hǎo de bànfǎ bú shì táobì, ér shì tóurù gèng duō zhuānzhù de shíjiān qù nǔlì.🌟*
+   - *当一件事情让你觉得很困难时，最好的办法不是逃避，而是投入更多专注的时间去努力。🌟*
 ---
 
-## Content Covered in Chinese I Class
+## Content Covered in Chinese I 
   1. General knowledge.
   2. Tones, Initials and Finals.
   3. Numbers and calculation.
@@ -71,6 +73,8 @@
 https://www.youtube.com/watch?v=3B2BdVhzF8I&pp=ygUhc2kgc2hpIHNoaSBjaGluZXNlIHRvbmd1ZSB0d2lzdGVy  
   8. Oral Song (MO LI HUA)
 https://www.youtube.com/watch?v=n9ArWpDSBJw&pp=ygUeaGFvIHlpIGR1byBtZWkgbGkgZGUgbW8gbGkgaHVh
+
+----------
 
 ## HSK 1 Vocabulary
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/eeccca9a-1575-45df-a595-823584105daf" />
@@ -86,7 +90,7 @@ https://www.youtube.com/watch?v=n9ArWpDSBJw&pp=ygUeaGFvIHlpIGR1byBtZWkgbGkgZGUgb
 * This active recall approach significantly improved my retention compared to simply rereading vocabulary.
 ---
 
-## Chinese Class II (CHI1001A)
+## Chinese II 
 * Entering the second class felt different.
 * I already understood:
   - Basic sentence structures
@@ -221,67 +225,45 @@ Each resource contributed differently to my continuous learning journey.
 ---
 
 #  Future Roadmap
+|Short-Term Goals|Medium-Term Goals|Long-Term Goals|
+|-----------------|----------------|----------------|
+|- Complete HSK 1 vocabulary mastery.|- Hold basic conversations in Mandarin.|- Pass HSK examinations.|
+|- Review HSK 2 vocabulary.|- Read beginner Chinese stories.|- Read technical content in Chinese.|
+|- Study Mandarin consistently every week.|- Maintain a journal in Mandarin.|- Build applications with Chinese localization.|
+|- Continue listening practice through podcasts.|- Learn 1,000+ Chinese words.|- Explore Data Science resources written in Chinese.|
 
-## Short-Term Goals
-
-- Complete HSK 1 vocabulary mastery
-- Review HSK 2 vocabulary
-- Study Mandarin consistently every week
-- Continue listening practice through podcasts
-
-## Medium-Term Goals
-
-- Hold basic conversations in Mandarin
-- Read beginner Chinese stories
-- Maintain a journal in Mandarin
-- Learn 1,000+ Chinese words
-
-## Long-Term Goals
-
-- Pass HSK examinations
-- Read technical content in Chinese
-- Build applications with Chinese localization
-- Explore Data Science resources written in Chinese
-- Collaborate with Chinese-speaking communities
-
+**Main system to put in place to archieve goals:**
+- Consistenly learn the language.
+  
 ---
 
-#  Lessons From My Journey
-
-A few things have helped me progress:
-
-- Consistency matters more than motivation.
-- Active recall is more effective than rereading notes.
-- Language learning requires patience.
-- Cultural understanding improves language understanding.
-- Small daily improvements accumulate over time.
-
-Most importantly:
-**I no longer view learning Chinese as a course I completed instead as a long-term system of continuous learning.**
-
 # Progress Summary
- <img width="303" height="293" alt="image" src="https://github.com/user-attachments/assets/a486d37c-de91-4c90-98ef-667f1de8f69b" />
- 
-* Main goal is to learn Chinese at least 3 times a week.
-* Extended version of Progress will be found in a file called Progress.md containing more details on what I learnt each day.
-* **Disclaimer** progress table contains work done from creating the repository onwards.
-
-
-|Week|Day|Progress|
+ |Week|Day|Progress|
 |-----|---|--------|
-|1|1|Compiled all the work done in my 2 courses for Chinese(6 units)|
-||2|Wrote 1st Readme Version, what I remembered doing off head|
-||3|Did 1 day of duolingo after 2 months of inactivity|
-||4|Did practice on HSK 1 Vocabulary(English and Pinyin) on letters x, y and z|
-||5|Listened to a short spotify podcast(7min) on Basic Greetings in Chinese|
-|2|6|Wrote a simple sentence in English, Pinyin and *Hanzi* by hand, posted it in Substack|
-||7|Downloaded Chinese Keyboard to be able to type in Chinese, Updated ReadMe file using Microsoft 365 Copilot, Turned my group presentation powerpoint slides for Chinese ||Class I into markdown files for easy viewing on github|
-||8|Found a 2hr Spotify Podcast on HSK 1 Vocabulary included making sentences and clear pronunction of each word| 
-||9|Started writing a progress summary of what I've done|
-|3|10|Created a progress file to write down what I have learnt|
-|||HSK1 Vocabulary + Sentences, categories(x, y and z)|
-|||Duolingo-Progressive Pronouns|
+|1|1|Compiled all the work done in my 2 courses for Chinese(6 units).|
+||2|Wrote 1st Readme Version, what I remembered doing off head.|
+||3|Did 1 day of duolingo after 2 months of inactivity.|
+||4|Did practice on HSK 1 Vocabulary(English and Pinyin) on letters x, y and z.|
+||5|Listened to a short spotify podcast(7min) on Basic Greetings in Chinese.|
+|2|6|Wrote a simple sentence in English, Pinyin and *Hanzi* by hand, posted it in Substack.|
+||7|Downloaded Chinese Keyboard to be able to type in Chinese, Updated ReadMe file using Microsoft 365 Copilot, Turned my group presentation powerpoint slides for Chinese ||Class I into markdown files for easy viewing on github.|
+||8|Found a 2hr Spotify Podcast on HSK 1 Vocabulary included making sentences and clear pronunction of each word.| 
+||9|Started writing a progress summary of what I've done.|
+|3|10|Created a progress file to write down what I have learnt.|
+|||HSK1 Vocabulary + Sentences; categories(s, t and w).|
+|||Duolingo-Progressive Pronouns.|
+||11| Recap on content covered so far|
+|||Added images to README file to make it more appealing.|
+|||Added more files on HSK1 Vocabulary.|
+|||Quiz on HSK1 Vocabulary; categories(s, t, w, x, y, z)|
+||12|Create visualisations of progress summary.|
 
+* Main goal is to learn Chinese **at least 3 times a week.**
+* Extended version of Progress(after week 7) will be found in a file called Progress.md.
+* **Disclaimer** progress table contains work done from creating the repository onwards.
+* Celebrate when you reach week 7
+
+--------------
 
 # Differences between Kenya and China
 ## First Aid Training
@@ -297,25 +279,16 @@ Most importantly:
 
 - NB: Automated External Defibrillator (AED) is a  portable device that analyzes a person's heart rhythm and delivers an electric shock if needed to restore a normal heartbeat during sudden cardiac arrest.
 
---------------------
-# Main Sustainable Ways Kenya Can Improve First Aid Training
-1. **Integrate First Aid into School Curricula**
-   - Teach basic first aid and CPR in primary and secondary schools to build lifelong emergency response skills.
+---------
 
-2. **Expand Community-Based Training**
-   - Partner with county governments, NGOs, and community organizations to provide regular training at the grassroots level.
+#  Lessons From My Journey
+A few things have helped me progress:
+- Consistency matters more than motivation.
+- Active recall is more effective than rereading notes.
+- Language learning requires patience.
+- Cultural understanding improves language understanding.
+- Small daily improvements accumulate over time.
 
-3. **Increase Access to AEDs**
-   - Install Automated External Defibrillators (AEDs) in public places such as schools, transport hubs, malls, and stadiums.
+Most importantly:
+**I no longer view learning Chinese as a course I completed instead as a long-term system of continuous learning.**
 
-4. **Use Digital Learning Platforms**
-   - Provide online courses, mobile apps, and refresher modules to reach more people at a lower cost.
-
-5. **Strengthen Workplace First Aid Programs**
-   - Require regular first aid training and emergency preparedness in both public and private sector workplaces.
-
-6. **Implement Train-the-Trainer Programs**
-   - Develop more certified local instructors who can continuously train others within their communities.
-
-7. **Conduct National Public Awareness Campaigns**
-   - Promote CPR, choking response, bleeding control, and emergency preparedness through media, schools, and community events.
