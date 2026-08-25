@@ -1,5 +1,7 @@
-<h1 align="center">🏯Mandarin Chinese Learning Journey🏯</h1>
-<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/8aec2a21-cf28-4d4e-a7e1-7ba1a4487bbd" />
+<h1 align="center"> 🏆Chinese Learning Pogress🏆</h1>
+<p align="center">
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/dc5cbc42-ac2a-440f-b4c3-48890138d31e" />
+</p>
 
 ---------
 
@@ -249,14 +251,14 @@ Each resource contributed differently to my continuous learning journey.
 ||7|Downloaded Chinese Keyboard to be able to type in Chinese, Updated ReadMe file using Microsoft 365 Copilot, Turned my group presentation powerpoint slides for Chinese ||Class I into markdown files for easy viewing on github.|
 ||8|Found a 2hr Spotify Podcast on HSK 1 Vocabulary included making sentences and clear pronunction of each word.| 
 ||9|Started writing a progress summary of what I've done.|
-|3|10|Created a progress file to write down what I have learnt.|
+|3|10|Created a file (Notebook.md) to write down what I have learnt.|
 |||HSK1 Vocabulary + Sentences; categories(s, t and w).|
 |||Duolingo-Progressive Pronouns.|
 ||11| Recap on content covered so far|
 |||Added images to README file to make it more appealing.|
 |||Added more files on HSK1 Vocabulary.|
-|||Quiz on HSK1 Vocabulary; categories(s, t, w, x, y, z)|
-||12|Create visualisations of progress summary.|
+||12|Active recall on HSK1 Vocabulary; categories(s, x, y, z)|
+|||Create visualisations for Progress (Excel,PowerBI)|
 
 * Main goal is to learn Chinese **at least 3 times a week.**
 * Extended version of Progress(after week 7) will be found in a file called Progress.md.
