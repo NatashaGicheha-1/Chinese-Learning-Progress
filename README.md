@@ -259,6 +259,11 @@ Each resource contributed differently to my continuous learning journey.
 |||Added more files on HSK1 Vocabulary.|
 ||12|Active recall on HSK1 Vocabulary; categories(s, x, y, z)|
 |||Create visualisations for Progress (Excel,PowerBI)|
+|4|13|Revised Vocabulary in Notebook.md|
+|||Studied General knowledge in China using a youtube video.|
+|||Wrote down what I learnt in Notebook.md|
+||14|Update progress file and dashboard.|
+
 
 * Main goal is to learn Chinese **at least 3 times a week.**
 * Extended version of Progress(after week 7) will be found in a file called Progress.md.
