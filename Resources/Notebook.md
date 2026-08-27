@@ -121,43 +121,81 @@ school
 # General knowledge on China
 <img width="334" height="222" alt="image" src="https://github.com/user-attachments/assets/cb0b700c-c4cb-426a-ab31-17a3d36b2de8" />
 
-Reference
-https://youtu.be/XeWO6fWUbUM
- - "50 facts in 10 minutes" - watched it while having breakfast.
- - Rewatched it and wrote down what I missed adding ❤️‍🔥 to each
+----------
 
-   
-##Active recall on the video
-1st attempt - I remembered 10/50 (Sad😭)
-1. Sticky rice was used to make the *Great Wall of China*
+
+1. Sticky rice (binding material) was used to make the *Great Wall of China*
    - Sticky rice - Nuòmǐ - 糯米 
    - Great Wall of China - Chángchéng - 长城
+     
 2. Most pandas are found in China except one in Mexico
    - Pandas - Xióngmāo - 熊猫
    - China - Zhōngguó - 中国
    - Mexico - Mòxīgē - 墨西哥
  > In Chinese 1 We were told that all pandas in the world are owned by China.
 
-3. China has the longest railway line
-4. Chinese government recognises 4 main religions
-   - Atheist
-   - Daoism
-   - Muslim
-   - 
-5. Mandarin is considered to be the hardest language to learn (Still learning regardless if I'm an average student)
-   Mandarin -
-   Language -
-6. Only 20% of people in China are native Chinese
-7. Official name for China is **The People's Republic of China**
-   * Saying Republic of China without "People's refers to Taiwan, city in China
-8. Fortune Cookies are not Chinese, they originated from New Zealand.
-9. Red is considered a lucky color in China, hence Red is worn by the bride in weddings to bring good fortune
-    - Red -
-    - Weddings -
- 10. Most people in China still live in Caves, Yaodongs
- 11. Buying live crabs from a vending machine in a subway in Nanjing
- 12. For a Chine
+3. China has the longest railway station in the world (12 427 miles + )
+   - Railway station - huǒchēzhàn → 火车站
 
+4. China is an Atheist state (Government does not follow a religion)
+   
+5. Chinese government officially recognises 5 religions:
+   - Buddhism - Fójiào → 佛教
+   - Daoism - Dàojiào → 道教
+   - Islam - Yīsīlánjiào → 伊斯兰教
+   - Catholicism - Tiānzhǔjiào → 天主教
+   - Protestanism - Jīdū Xīnjiào → 基督新教
+     
+6. Mandarin is considered the most difficult language to learn (Still learning regardless if I'm an average student)
+   - Mandarin - Pǔtōnghuà → 普通话
+   - Language - yǔyán → 语言
+   
+7. Chinese people make 20% of the World's population.
+   
+8. China's national sport is **table tennis**
+   - Tabble tennis - pīngpāngqiú → 乒乓球
+   
+9. Official name for China is **The People's Republic of China**
+   - Saying Republic of China without "People's refers to Taiwan instead.
+     
+10. Fortune Cookies are not Chinese, invented in San Fransisco.
+    - Fortune Cookies - xìngyùn bǐnggān → 幸运饼干
+    
+11. Red is considered a lucky color in China, hence Red is worn by the bride in weddings to bring **good fortune** in the marriage
+    - Red - hóngsè → 红色
+    - Weddings - hūnlǐ → 婚礼
+
+12. White symbolizes death in China
+    - White - báisè → 白色
+    - Death - sǐwáng → 死亡
+      
+13. Most people in China still live in Cave houses.
+    - Cave houses - yáodòng - 窑洞
+     
+14. For a Chinese pope/person to be reincarnated they must get the government's approval.
+
+15. Four is an unlucky number in China
+    - Four - sì - 四
+    
+16. Instagram, Coogle, Twitter and Facebook are blocked in Mainland China.
+    
+17. Chinese new year is celebrated over 15 days.
+    - New year - Xīnnián → 新年
+    
+18. China's National Anthem **means **March of the Volunteers**
+    -  National Anthem - guógē → 国歌
+    -  March of the Volunteers - Yìyǒngjūn Jìnxíngqǔ → 义勇军进行曲
+      
+> Disclaimer:
+> I have not written all the facts down, watch the video fo more.
+> The video is not peer reviewed.
+
+ - "50 facts in 10 minutes" , video under Reference,  watched it while having breakfast.
+ - Active recall on the video: 1st attempt - I remembered 10/50 (Sad😭)
+ - Rewatched it to remember more, corrected the ones I got wrong and added some.
+
+#### Reference
+https://youtu.be/XeWO6fWUbUM
 
 ----------
 ----------
