@@ -1,6 +1,8 @@
 <h1 align="center"> 🏆Chinese Learning Pogress🏆</h1>
 <p align="center">
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/dc5cbc42-ac2a-440f-b4c3-48890138d31e" />
+<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/546d628a-4004-4192-992a-ac29ca3b8a4e" />
+
+
 </p>
 
 ---------
@@ -259,6 +261,11 @@ Each resource contributed differently to my continuous learning journey.
 |||Added more files on HSK1 Vocabulary.|
 ||12|Active recall on HSK1 Vocabulary; categories(s, x, y, z)|
 |||Create visualisations for Progress (Excel,PowerBI)|
+|4|13|Revised Vocabulary in Notebook.md|
+|||Studied General knowledge in China using a youtube video.|
+|||Wrote down what I learnt in Notebook.md|
+||14|Update progress file and dashboard.|
+
 
 * Main goal is to learn Chinese **at least 3 times a week.**
 * Extended version of Progress(after week 7) will be found in a file called Progress.md.
