@@ -1,6 +1,8 @@
 <h1 align="center"> 🏆Chinese Learning Pogress🏆</h1>
 <p align="center">
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/dc5cbc42-ac2a-440f-b4c3-48890138d31e" />
+<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/546d628a-4004-4192-992a-ac29ca3b8a4e" />
+
+
 </p>
 
 ---------
