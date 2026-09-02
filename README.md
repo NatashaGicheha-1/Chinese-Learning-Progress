@@ -1,8 +1,6 @@
 <h1 align="center"> 🏆Chinese Learning Pogress🏆</h1>
 <p align="center">
-<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/546d628a-4004-4192-992a-ac29ca3b8a4e" />
-
-
+<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/85e1da53-3ff1-47cb-aae6-6107bd6ba09e" />
 </p>
 
 ---------
@@ -265,6 +263,9 @@ Each resource contributed differently to my continuous learning journey.
 |||Studied General knowledge in China using a youtube video.|
 |||Wrote down what I learnt in Notebook.md|
 ||14|Update progress file and dashboard.|
+|||k-s Vocabulary Review.|
+|||Duolingo-Unit 5 Possessive Pronouns-Got promoted to Gold League|
+|||!Review of vocabulary done previously, write repository structure and write down resources used.|
 
 
 * Main goal is to learn Chinese **at least 3 times a week.**
