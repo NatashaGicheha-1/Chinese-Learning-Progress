@@ -83,7 +83,49 @@ school
 - 🔥Practice makes perfect🔥.
   - 🔥Shú néng shēng qiǎo🔥.
     - 🔥熟能生巧🔥。
+      
+----------
 
+# Daily grind Vocab -_-
+- 1.Reading HSK1 words from k-s and roman numerals prompted Copilot to quiz me on content covered.
+- Didn't feel like writing.
+- Below are the words I didn't get on my 1st try
+- Ignored tone marks in Pinyin🙈
+  |Pinyin|English|
+  |---|----|
+  |mai|buy|
+  |qian|money|
+  |renshi|to know/to understand|
+  |ling|zero|
+  |jiu|nine|
+  |ba|nine|
+
+  - **NB:**
+  - Renminbi = Official Chinese Currency.
+  - Yuan = Formal Unit of Chinese Currency.
+  - Kuai = Informal Unit of Chinese Currency.
+
+  - 2.Wrote down all words in each category (k-s) offhead to see content retained
+  - Total of 8 categories, 55 words
+    |Category|First Attempt| After review|
+    |---------|-------------|-------------|
+    |k|2.5/4||
+    |l|6/7||
+    |m|4/9||
+    |n|3/9||
+    |p|2.5/3||
+    |q|1.5/7||
+    |r|3/4||
+    |s|9/15||
+    - Total score 32.5/55
+    - In HSK1, No word starting with 'O'
+    - Concerning areas are: s, m, n, q and k
+    - Solid effort though🤗!
+      - Bùguò, nǐ yǐjīng hěn nǔlì le🤗! 
+        - 不过，你已经很努力了🤗！
+    
+   
+    
 ----------------------------------------------
 -----------------------------------------------
 # Chinese Podcast on Spotify
