@@ -238,8 +238,27 @@ Each resource contributed differently to my continuous learning journey.
 - Consistenly learn the language.
   
 ---
+# Resources Used
+- Content learnt in Chinese I and Chinese II Class in University.
+- Official HSK1 Vocabulary.
+- Group Presentation slides
+- Mandarin Podcasts on Spotify
+- Cdramas in Youtube
 
-# Progress Summary
+## Cdramas I liked; 
+- Daughter of Fortune.
+- Spring Fever.
+- The Eternal Fragrance
+- Pursuit of Jade - only edits
+> from recent(last May 2026)
+
+----------
+# Progress 
+* Main goal is to learn Chinese **at least 3 times a week.**
+* Copy of Progress Summary is be found in a file called Progress.md.
+* **Disclaimer** progress table contains work done from creating the repository onwards.
+* Celebrate when you reach week 7
+
  |Week|Day|Progress|
 |-----|---|--------|
 |1|1|Compiled all the work done in my 2 courses for Chinese(6 units).|
@@ -265,15 +284,29 @@ Each resource contributed differently to my continuous learning journey.
 ||14|Update progress file and dashboard.|
 |||k-s Vocabulary Review.|
 |||Duolingo-Unit 5 Possessive Pronouns-Got promoted to Gold League|
-|||!Review of vocabulary done previously, write repository structure and write down resources used.|
+||15|Review of vocabulary done previously, write repository structure and resources used.|
 
-
-* Main goal is to learn Chinese **at least 3 times a week.**
-* Extended version of Progress(after week 7) will be found in a file called Progress.md.
-* **Disclaimer** progress table contains work done from creating the repository onwards.
-* Celebrate when you reach week 7
 
 --------------
+# Repository Structure
+```text
+Chinese-Learning-Progress/
+├── Vocabulary/
+│   ├── HSK1 Original.pdf/
+│   ├── HSK1 Translated.docs/
+│   └── HSK1 Translated.md/ - For you to see the words without having to download the file
+├── Resources/
+│    ├── Notebook.md/ - Contains Revision done on Vocabulary, Culture, General knowledge and Duolingo
+├── Progress.md
+├── README.md
+
+```
+
+
+
+
+
+------------
 
 # Differences between Kenya and China
 ## First Aid Training
