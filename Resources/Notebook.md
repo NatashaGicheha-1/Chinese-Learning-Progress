@@ -109,17 +109,18 @@ school
   - Total of 8 categories, 55 words
     |Category|First Attempt| After review|
     |---------|-------------|-------------|
-    |k|2.5/4||
+    |k|2.5/4|3/4|
     |l|6/7||
-    |m|4/9||
+    |m|4/9|7/9|
     |n|3/9||
     |p|2.5/3||
-    |q|1.5/7||
+    |q|1.5/5|3/5|
     |r|3/4||
-    |s|9/15||
+    |s|9/15|13/15|
     - Total score 32.5/55
     - In HSK1, No word starting with 'O'
     - Concerning areas are: s, m, n, q and k
+    - After review, content mastery improved but there is room for improvement
     - Solid effort though🤗!
       - Bùguò, nǐ yǐjīng hěn nǔlì le🤗! 
         - 不过，你已经很努力了🤗！
