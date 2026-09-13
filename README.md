@@ -227,16 +227,19 @@ Each resource contributed differently to my continuous learning journey.
 
 ---
 
-#  Future Roadmap
-|Short-Term Goals|Medium-Term Goals|Long-Term Goals|
-|-----------------|----------------|----------------|
-|- Complete HSK 1 vocabulary mastery.|- Hold basic conversations in Mandarin.|- Pass HSK examinations.|
-|- Review HSK 2 vocabulary.|- Read beginner Chinese stories.|- Read technical content in Chinese.|
-|- Study Mandarin consistently every week.|- Maintain a journal in Mandarin.|- Build applications with Chinese localization.|
-|- Continue listening practice through podcasts.|- Learn 1,000+ Chinese words.|- Explore Data Science resources written in Chinese.|
+#  Plan Structure
+|Short-Term Goals|Long-Term Goals|
+|----------------|----------------|
+|5 months||
+|- Study Mandarin consistently every week.|- Hold basic conversations in Mandarin.|
+|- Complete HSK 1 vocabulary mastery.|- Read beginner Chinese stories.|
+|- Do HSK1 Exam(Read-Write)|- Build applications in Chinese language.|
+|- Master HSK 2 vocabulary|-Learn more about Chinese History and Culture|
+|- Do HSK 2 Exam.|- Interact with more people interested in Chinese.|
+||- Read technical content in Chinese.|
 
-**Main system to put in place to archieve goals:**
-- Consistenly learn the language.
+- **Main system to put in place to archieve goals:**
+  - Consistenly learn the language.
   
 ---
 # Resources Used
@@ -286,7 +289,7 @@ Each resource contributed differently to my continuous learning journey.
 |||k-s Vocabulary Review.|
 |||Duolingo-Unit 5 Possessive Pronouns-Got promoted to Gold League|
 ||15|Review of vocabulary done previously, write repository structure and resources used.|
-
+|5|16|Edit plan structure,learn more on Weddings in China compared to the West(Culture).|
 
 --------------
 # Repository Structure
@@ -302,10 +305,6 @@ Chinese-Learning-Progress/
 ├── README.md
 
 ```
-
-
-
-
 
 ------------
 
