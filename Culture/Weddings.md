@@ -1,6 +1,5 @@
-# ❤️🏮 Weddings in China Compared to the West ❤️🏮
-<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/34e2d558-a4d1-4449-9f5c-e614d07b7ad3" />
-
+<h1 align="center"># ❤️🏮 Traditional vs Modern Wedding in China ❤️🏮</h1>
+<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/ee2864a7-ef47-4f5b-9b69-c60ec55e4fdb" />
 
 ## Arranged Marriages
 - Traditional Chinese marriages were often arranged by parents rather than individuals themselves.
@@ -46,8 +45,7 @@
 - 剩女 (Shèng Nǚ) represents ladies oner the age of 24
 
 ### 2.Changing Values
-
-Young adults are increasingly prioritizing:
+- Young adults are increasingly prioritizing:
   - Love.
   - Compatibility.
   - Career goals.
@@ -177,12 +175,10 @@ Popular lucky numbers often include:
 - An increasingly visible lifestyle choice.
   
 ## Rising Marriage Age
-
-Education and careers increasingly delay marriage.
+- Education and careers increasingly delay marriage.
 
 ## Two-Income Families
-
-Women's economic independence is reshaping family structures.
+- Women's economic independence is reshaping family structures.
 
 
 
@@ -240,7 +236,12 @@ Same-sex relationships currently do not receive legal marriage recognition in Ch
 ---
 
 # Vocabulary
+?
 
+# Resources used
+- Group presentation slides
+- https://youtu.be/BjWOw0YrbK8
+  
 # 🌸 Conclusion
 - Traditional Chinese marriage reflects centuries of Confucian values emphasizing family harmony, lineage, and social stability.
 - Modern China increasingly blends these traditions with contemporary ideas about love, individual choice, and personal fulfillment, creating a unique balance between heritage and modernization.
