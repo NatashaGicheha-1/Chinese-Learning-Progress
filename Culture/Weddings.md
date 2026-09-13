@@ -1,92 +1,70 @@
-# ❤️🏮 Weddings in China Compared to the West
+# ❤️🏮 Weddings in China Compared to the West ❤️🏮
+<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/34e2d558-a4d1-4449-9f5c-e614d07b7ad3" />
 
-*Tea, Tantan and Tradition: Exploring Love and Marriage in China*
-
----
-
-# 🌸 Traditional Chinese Dating and Matchmaking
 
 ## Arranged Marriages
-
-Traditional Chinese marriages were often arranged by parents rather than chosen by individuals.
-
-### Key Features
-
-- Marriage aimed to strengthen family alliances.
-- Family reputation and social stability were priorities.
-- Romantic love was often secondary.
+- Traditional Chinese marriages were often arranged by parents rather than individuals themselves.
+- Key Features:
+  - Marriage aimed to strengthen family alliances.
+  - Family reputation and social stability were priorities.
+  - Romantic love was often secondary.
 
 ## Matchmakers (媒人, Méirén)
-
-Matchmakers evaluated:
-
-- Family background
-- Wealth
-- Social standing
-- Zodiac compatibility
-
-before recommending a potential spouse.
+- Matchmakers evaluated below before recommending a potential spouse:
+  - Family background.
+  - Wealth.
+  - Social standing.
+  - Zodiac compatibility.
 
 ## Compatibility Factors
+### 1.Family and Social Status
+- Marriage united families rather than individuals.
 
-### Family and Social Status
+### 2.Chinese Zodiac
+- Birth dates and zodiac signs were compared to predict harmony.
 
-Marriage united families rather than just individuals.
-
-### Chinese Zodiac
-
-Birth dates and zodiac signs were compared to predict harmony.
-
-### Dowries and Gifts
-
-Dowries and betrothal gifts symbolized:
-
-- Respect
-- Family commitment
-- Stability
+### 3.Dowries and Gifts
+- Dowries and betrothal gifts symbolized:
+  - Respect.
+  - Family commitment.
+  - Stability.
 
 ---
 
 # 💕 Modern Dating in China
-
-Modern Chinese relationships have been transformed by technology and globalization.
+- Modern Chinese relationships have been transformed by technology and globalization.
 
 ## Major Trends
-
-- Growth of online dating platforms such as Tantan, Baihe, and Momo
+- Growth of **online dating platforms** such as Tantan, Baihe, and Momo
 - Reduced parental control
 - Greater emphasis on emotional compatibility
 - Growing importance of financial readiness
 
 ## Social Concepts
+### 1. 剩女 (Shèng Nǚ)
+- Often translated as "leftover women," referring to unmarried women facing societal pressure.
+- 剩女 (Shèng Nǚ) represents ladies oner the age of 24
 
-### 剩女 (Shèng Nǚ)
+### 2.Changing Values
 
-Often translated as "leftover women," referring to unmarried women facing societal pressure.
-
-### Changing Values
-
-Young adults increasingly prioritize:
-
-- Love
-- Compatibility
-- Career goals
-- Personal fulfillment
+Young adults are increasingly prioritizing:
+  - Love.
+  - Compatibility.
+  - Career goals.
+  - Personal fulfillment.
 
 ---
 
 # 🏞️ Chinese Marriage Markets
+- Marriage markets are public spaces where parents seek suitable partners for their children.
+- Examples:
+  - Shanghai People's Park Marriage Market.
+  - Zhongshan Park, Beijing.
+  - Yuyuantan Park, Beijing.
+  - Temple of Heaven, Beijing.
 
-## What Are They?
 
-Marriage markets are public spaces where parents seek suitable partners for their children.
-
-### Example
-
-Shanghai People's Park Marriage Market.
-
-## Common Information Advertised
-
+## Common Information Advertised in Marriage Markets
 - Age
 - Education
 - Income
@@ -96,88 +74,69 @@ Shanghai People's Park Marriage Market.
 ---
 
 # 💒 Traditional Chinese Wedding Customs
-
 ## Pre-Wedding Rituals
+1. 安床 (Ān Chuáng)
+- Setting the wedding bed.
 
-### 安床 (Ān Chuáng)
-Setting the wedding bed.
+2. 坐堂 (Zuò Táng)
+- Planned ceremonial crying.
 
-### 坐堂 (Zuò Táng)
-Planned ceremonial crying.
-
-### 过大礼 (Guò Dà Lǐ)
-Formal betrothal ceremony.
+3. 过大礼 (Guò Dà Lǐ)
+- Formal betrothal ceremony.
 
 ---
 
 ## Wedding Day Rituals
+1. 迎亲 (Yíng Qīn)
+- The groom fetches the bride.
 
-### 迎亲 (Yíng Qīn)
-The groom fetches the bride.
+2. 红盖头 (Hóng Gàitóu)
+- Traditional red bridal veil.
 
-### 红盖头 (Hóng Gàitóu)
-Traditional red bridal veil.
+3. 红伞 (Hóng Sǎn)
+- Red umbrella symbolizing protection and blessings.
 
-### 红伞 (Hóng Sǎn)
-Red umbrella symbolizing protection and blessings.
+4. Firecrackers
+- Used to ward off evil spirits.
 
-### Firecrackers
+5. Three Bows Ceremony
+- The couple bows to:
+  1. Heaven and Earth.
+  2. Parents and ancestors.
+  3. Each other
 
-Used to ward off evil spirits.
+6. Gourd Cup Wine
+- Represents unity and shared destiny.
 
-### Three Bows Ceremony
-
-The couple bows to:
-
-1. Heaven and Earth
-2. Parents and ancestors
-3. Each other
-
-### Gourd Cup Wine
-
-Represents unity and shared destiny.
-
-### Tea Ceremony
-
-A key ritual demonstrating:
-
-- Respect
-- Gratitude
-- Family acceptance
+7. Tea Ceremony
+- A key ritual demonstrating:
+  - Respect.
+  - Gratitude.
+  - Family acceptance.
 
 ---
 
 ## Post-Wedding Rituals
-
-### 上头 (Shàng Tóu)
-
-Traditional hair-combing ceremony.
+1. 上头 (Shàng Tóu)
+- Traditional hair-combing ceremony.
 
 ### Meeting the In-Laws
-
-Symbolizes integration into the new family.
+- Symbolizes integration into the new family.
 
 ---
 
 # ❤️ Symbolism and Aesthetics
-
-## Red and Gold
-
-### Red ❤️
-
-Represents:
-
-- Happiness
-- Luck
-- Celebration
+## Red ❤️
+- Represents:
+  - Happiness
+  - Luck
+  - Celebration
 
 ### Gold ✨
-
-Represents:
-
-- Wealth
-- Success
-- Prosperity
+- Represents:
+  - Wealth
+  - Success
+  - Prosperity
 
 ---
 
@@ -193,13 +152,12 @@ Popular lucky numbers often include:
 ---
 
 ## Wedding Banquets
-
-Common symbolic foods include:
+- Common symbolic foods include:
 
 | Food | Meaning |
 |--------|---------|
 | Fish | Abundance |
-| Noodles | Long life |
+| Longevity-Noodles | Long life |
 | Lotus Seeds | Fertility |
 
 ---
@@ -214,7 +172,10 @@ Common symbolic foods include:
 ---
 
 # 🌍 Modern Marriage Trends
-
+## DINK Families
+- **Dual Income, No Kids**
+- An increasingly visible lifestyle choice.
+  
 ## Rising Marriage Age
 
 Education and careers increasingly delay marriage.
@@ -223,15 +184,10 @@ Education and careers increasingly delay marriage.
 
 Women's economic independence is reshaping family structures.
 
-## DINK Families
 
-**Dual Income, No Kids**
-
-An increasingly visible lifestyle choice.
 
 ## Divorce Acceptance
-
-Growing in major cities but still faces stigma in some rural communities.
+- Growing in major cities but still faces stigma in some rural communities.
 
 ## New Terms
 
@@ -254,8 +210,7 @@ Cohabitation before formal marriage.
 # ⚖️ Modern Challenges
 
 ## Bare Branches Crisis (光棍)
-
-Gender imbalance has created difficulties for many men seeking marriage.
+- Gender imbalance has created difficulties for many men seeking marriage.
 
 ## Work Pressure
 
@@ -284,7 +239,8 @@ Same-sex relationships currently do not receive legal marriage recognition in Ch
 
 ---
 
-# 🌸 Conclusion
+# Vocabulary
 
-Chinese marriage traditions reflect centuries of Confucian values emphasizing family harmony, lineage, and social stability.
-Modern China increasingly blends these traditions with contemporary ideas about love, individual choice, and personal fulfillment, creating a unique balance between heritage and modernization.
+# 🌸 Conclusion
+- Traditional Chinese marriage reflects centuries of Confucian values emphasizing family harmony, lineage, and social stability.
+- Modern China increasingly blends these traditions with contemporary ideas about love, individual choice, and personal fulfillment, creating a unique balance between heritage and modernization.
