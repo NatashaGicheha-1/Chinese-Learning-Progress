@@ -141,9 +141,8 @@ https://www.youtube.com/watch?v=n9ArWpDSBJw&pp=ygUeaGFvIHlpIGR1byBtZWkgbGkgZGUgb
 * All files on Group Presentations are found in the Culture folder in the repository.
 * Topics covered in Group Presentations for Chinese Class I included:
   
-  ## Weddings in China Compared to the West
- *❤️🏮 Tea, Tantan & Tradition❤️🏮*
-* 🌸 🏮 💍 Covers 💮 🏮 🌸:
+  ## 💮🏮Traditional vs Modern Wedding in China
+* Covers ❤️:
   - Traditional Chinese matchmaking and arranged marriages.
   - Modern dating culture - Marriage markets.
   - Wedding rituals and ceremonies.
