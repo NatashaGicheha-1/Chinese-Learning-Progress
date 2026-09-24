@@ -194,15 +194,24 @@ https://www.youtube.com/watch?v=n9ArWpDSBJw&pp=ygUeaGFvIHlpIGR1byBtZWkgbGkgZGUgb
 * These presentations helped me better understand the cultural context behind communication and everyday life in China.
 
 ---
-
+---
 # Festivals 
 ## 1.Dragon Boat Festival
 One of the cultural topics explored during the course was the **Dragon Boat Festival**.
 Learning about its history and significance helped deepen my understanding of Chinese traditions and cultural values.
 
-**Provide details about it?**
+## 2.Mid-Autumn Festival
+- The festival falls on Friday, September 25, with mainland China's holiday break running September 25 to 27. 
+- What I have covered so far:
+  - **History:** a timeline from Shang and Zhou moon worship through the Tang, Song, Ming and Qing dynasties to the 2006 heritage listing and 2008 public holiday.
+  - **Legends:** Chang'e and Hou Yi (including the darker versions), the Jade Rabbit, Wu Gang, and Beijing's Lord Rabbit.
+  - **Traditional customs:** moon worship, lanterns and riddles, osmanthus wine, the Tai Hang fire dragon, Qiantang tide-watching, and the Bo Bing dice game.
+  - **Mooncakes:** their origins, the rebellion legend, and a table of regional styles.
+  - **Regional and ethnic variations, and poetry:** local customs across China and the moon in Su Shi's and Li Bai's poems.
+  - **Modern times:** low-sugar and museum-branded mooncakes, "reverse reunions" and video-call reunions, hanfu night markets, and the Chang'e-7 lunar mission, whose launch China postponed in August.
+  - **Reference sections:** a then-vs-now table, a glossary, and a "Notes on Conflicting Sources" section.
 ---
-
+---
 #  Mandarin Podcasts
 * Listening practice has been an important part of my learning journey.
 * Podcasts listened to include:
@@ -261,34 +270,37 @@ Each resource contributed differently to my continuous learning journey.
 * Copy of Progress Summary is be found in a file called Progress.md.
 * **Disclaimer** progress table contains work done from creating the repository onwards.
 * Celebrate when you reach week 7
+* **Exact date** was added for more accountability
 
- |Week|Day|Progress|
-|-----|---|--------|
-|1|1|Compiled all the work done in my 2 courses for Chinese(6 units).|
-||2|Wrote 1st Readme Version, what I remembered doing off head.|
-||3|Did 1 day of duolingo after 2 months of inactivity.|
-||4|Did practice on HSK 1 Vocabulary(English and Pinyin) on letters x, y and z.|
-||5|Listened to a short spotify podcast(7min) on Basic Greetings in Chinese.|
-|2|6|Wrote a simple sentence in English, Pinyin and *Hanzi* by hand, posted it in Substack.|
-||7|Downloaded Chinese Keyboard to be able to type in Chinese, Updated ReadMe file using Microsoft 365 Copilot, Turned my group presentation powerpoint slides for Chinese ||Class I into markdown files for easy viewing on github.|
-||8|Found a 2hr Spotify Podcast on HSK 1 Vocabulary included making sentences and clear pronunction of each word.| 
-||9|Started writing a progress summary of what I've done.|
-|3|10|Created a file (Notebook.md) to write down what I have learnt.|
-|||HSK1 Vocabulary + Sentences; categories(s, t and w).|
-|||Duolingo-Progressive Pronouns.|
-||11| Recap on content covered so far|
-|||Added images to README file to make it more appealing.|
-|||Added more files on HSK1 Vocabulary.|
+ |Exazt date|Week|Day|Progress|
+|-----------|-----|---|--------|
+||1|1|Compiled all the work done in my 2 courses for Chinese(6 units).|
+|||2|Wrote 1st Readme Version, what I remembered doing off head.|
+|||3|Did 1 day of duolingo after 2 months of inactivity.|
+|||4|Did practice on HSK 1 Vocabulary(English and Pinyin) on letters x, y and z.|
+|||5|Listened to a short spotify podcast(7min) on Basic Greetings in Chinese.|
+||2|6|Wrote a simple sentence in English, Pinyin and *Hanzi* by hand, posted it in Substack.|
+|||7|Downloaded Chinese Keyboard to be able to type in Chinese, Updated ReadMe file using Microsoft 365 Copilot, Turned my group presentation powerpoint slides for Chinese ||Class I into markdown files for easy viewing on github.|
+|||8|Found a 2hr Spotify Podcast on HSK 1 Vocabulary included making sentences and clear pronunction of each word.| 
+|||9|Started writing a progress summary of what I've done.|
+||3|10|Created a file (Notebook.md) to write down what I have learnt.|
+||||HSK1 Vocabulary + Sentences; categories(s, t and w).|
+||||Duolingo-Progressive Pronouns.|
+|||11| Recap on content covered so far|
+||||Added images to README file to make it more appealing.|
+||||Added more files on HSK1 Vocabulary.|
 ||12|Active recall on HSK1 Vocabulary; categories(s, x, y, z)|
-|||Create visualisations for Progress (Excel,PowerBI)|
-|4|13|Revised Vocabulary in Notebook.md|
-|||Studied General knowledge in China using a youtube video.|
-|||Wrote down what I learnt in Notebook.md|
-||14|Update progress file and dashboard.|
-|||k-s Vocabulary Review.|
-|||Duolingo-Unit 5 Possessive Pronouns-Got promoted to Gold League|
-||15|Review of vocabulary done previously, write repository structure and resources used.|
-|5|16|Edit plan structure,learn more on Weddings in China compared to the West(Culture).|
+||||Create visualisations for Progress (Excel,PowerBI)|
+||4|13|Revised Vocabulary in Notebook.md|
+||||Studied General knowledge in China using a youtube video.|
+||||Wrote down what I learnt in Notebook.md|
+|||14|Update progress file and dashboard.|
+||||k-s Vocabulary Review.|
+||||Duolingo-Unit 5 Possessive Pronouns-Got promoted to Gold League|
+|||15|Review of vocabulary done previously, write repository structure and resources used.|
+||5|16|Edit plan structure,learn more on Weddings in China compared to the West(Culture).|
+|||17|Started watching a modern cdrama on netflix "The Early Spring" 10/10|
+|24/09/2026||18|Researched on Mid-Autumn Festival using Claude. Shortened version in README file, Extended version in Festivals folder. Updated Progress Table|
 
 --------------
 # Repository Structure
